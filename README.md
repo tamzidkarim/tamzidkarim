@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://app.daily.dev/tamzidkarim"><img src="https://api.daily.dev/devcards/4862a31a0b8c4884b7d0dc14634bc66e.png?r=5w7" width="400" alt="Tamzid Karim's Dev Card"/></a>
 
 <!--
 **tamzidkarim/tamzidkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
