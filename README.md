@@ -24,3 +24,11 @@
 ## I am Enamul Karim Tamzid
 
 - Developer at [Red.Dot Digital](https://www.reddotdigitalit.com)
+- Favorite color palette
+
+<!-- https://digitalsynopsis.com/design/flat-color-palettes/ -->
+![#f03c15](https://via.placeholder.com/25/F18C8E/000000?text=+)
+![#c5f015](https://via.placeholder.com/25/F0B7A4/000000?text=+)
+![#1589F0](https://via.placeholder.com/25/F1D1B5/000000?text=+)
+![#1589F0](https://via.placeholder.com/25/568EA6/000000?text=+)
+![#1589F0](https://via.placeholder.com/25/305F72/000000?text=+)
